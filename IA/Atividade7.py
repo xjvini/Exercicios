@@ -1,5 +1,5 @@
 import numpy as np
-
+# Dupla: José Vinícius e Alane Micaelle
 # Configuração do Perceptron
 class Perceptron:
     def __init__(self, num_atributos, taxa_aprendizagem=0.1):
